@@ -38,7 +38,7 @@
       </node>
       <node id="505" label="Restructuring education system">
         <viz:size value="202.8"></viz:size>
-        <viz:position x="-422.54834" y="-8884.755"></viz:position>
+        <viz:position x="-1060.6621" y="-9229.681"></viz:position>
         <viz:color r="57" g="252" b="63"></viz:color>
       </node>
       <node id="506" label="United Nations Development Programme">
@@ -58,7 +58,7 @@
       </node>
       <node id="509" label="Korea">
         <viz:size value="182.8"></viz:size>
-        <viz:position x="2255.2407" y="-8599.402"></viz:position>
+        <viz:position x="2324.226" y="-8789.111"></viz:position>
         <viz:color r="215" g="34" b="206"></viz:color>
       </node>
       <node id="510" label="General Topic 1">
